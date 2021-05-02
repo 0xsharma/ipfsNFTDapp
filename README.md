@@ -1,3 +1,25 @@
+# Accessing Smart Contracts
+
+Use remix IDE for interacting with contracts.
+
+The contracts are in "./Smart Contracts"
+
+## The deployed Contracts are as follows:
+
+Mumbai (Matic Netowork) Testnet Block Explorer
+
+### NFT :
+https://explorer-mumbai.maticvigil.com/address/0x835beeEa762Ad5bc30ab1dD038e58b192e31DfB5/transactions
+
+### Escrow Contract Creator:
+https://explorer-mumbai.maticvigil.com/address/0x0CdB2b41ED04DeB61462032d7Dd31cCC9c396528/transactions
+
+
+### Sample Escrow Contract:
+https://explorer-mumbai.maticvigil.com/address/0x68673F4AAb263642a844A9B4C7557E17a7144920/transactions
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
